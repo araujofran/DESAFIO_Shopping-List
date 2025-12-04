@@ -1,6 +1,6 @@
 # 📌 **README.md — Projeto DESAFIO_Shopping List**
 
-*(Copie e cole diretamente no GitHub)*
+
 
 ---
 
@@ -41,6 +41,7 @@ A automação utiliza a dinâmica de **loops, parsing de texto e interação dir
 
 👇 *Adicionar esta imagem na pasta do projeto com o nome:*
 📍 **fluxo_sistema.png**
+<img width="1498" height="678" alt="fluxo_sistema" src="https://github.com/user-attachments/assets/8589bb9a-a6d6-462e-a511-c0e8399a0794" />
 
 
 ---
@@ -115,5 +116,6 @@ DESAFIO_Shopping List/
 │
 └── README.md
 ```
+
 
 
