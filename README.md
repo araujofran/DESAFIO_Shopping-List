@@ -1,6 +1,4 @@
-# 📌 **README.md — Projeto DESAFIO_Shopping List**
-
-
+# 📌  Projeto DESAFIO_Shopping List**
 
 ---
 
@@ -80,8 +78,12 @@ A automação utiliza a dinâmica de **loops, parsing de texto e interação dir
 ## 🏆 Conquista
 
 Imagem comprovando a conquista de **100% accuracy + certificado**
-👇 Salvar no repositório como:
+
 📍 **conquista_vitoria.png**
+
+<img width="933" height="815" alt="conquista_vitoria" src="https://github.com/user-attachments/assets/57698693-a68a-43d4-9e2f-17442b06d531" />
+
+
 
 ---
 
@@ -90,8 +92,8 @@ Imagem comprovando a conquista de **100% accuracy + certificado**
 **Francisco Ferreira de Araujo**
 Engenheiro de Inteligência Artificial • FIAP
 📌 Agregando habilidades RPA através da plataforma **Automation Anywhere**
-📎 LinkedIn: *(adicione quando quiser)*
-📎 GitHub: *(link do repositório quando publicado)*
+📎 LinkedIn: www.linkedin.com/in/francisco-ferreira-de-araujo-1b432033
+📎 GitHub: https://github.com/araujofran/DESAFIO_Shopping-List/edit/main/README.md
 
 ---
 
@@ -118,6 +120,7 @@ DESAFIO_Shopping List/
 │
 └── README.md
 ```
+
 
 
 
